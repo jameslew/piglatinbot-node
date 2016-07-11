@@ -1,0 +1,20 @@
+{
+  "name": "nodeconnector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "botconnector_sample.js",
+  "dependencies": {
+    "botbuilder": "https://aka.ms/hackathon-builder-npm",
+    "botconnector": "^0.9.6",
+    "ms-rest": "^1.14.3",
+    "restify": "^4.1.1",
+    "test": "^0.6.0",
+    "unicode-properties": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
